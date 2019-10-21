@@ -17,3 +17,5 @@ If you're interested in loading these into eclipse, here is what I do on my wind
 		Right click on "JRE System Library ..." -> Build Path -> Configure Build Path
 			Add the external jars by clicking on "Add External Jars"
 				Now locate where the appropriate jar file is on your computer
+		
+#### This code is associated with the paper from Crispell et al., "Combining genomics and epidemiology to analyse bi-directional transmission of _Mycobacterium bovis_ in a multi-host system". eLife, 2019. http://doi.org/10.7554/eLife.45833
